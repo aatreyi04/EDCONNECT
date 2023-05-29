@@ -1,0 +1,93 @@
+body{
+    background-color: #fff;
+}
+h1{
+    color: #241571;
+    font-family: "Trebuchet MS";
+    font-size: 80px;
+    text-align: center;
+    padding-bottom:10px;
+    border-bottom: 5px dotted #016064;
+}
+h3{
+    color: #1338be;
+    font-family: "Arial";
+    font-size: 20px;
+    text-align: center;
+}
+h4{
+   font-family: "Trebuchet MS"; 
+   color:#0492c2;
+   font-size: 25px;
+   padding-left: 5px;
+   text-align: center;
+}
+.covers img{
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+    padding:5px;
+    margin: 25px;
+    float:left;
+}
+
+.names li{
+    color:#63c5da;
+    font-family:"Arial";
+    font-size: 20px;
+    float:left;
+    list-style: none;
+}
+
+.jonas{
+    text-align :1000px;
+}
+.links li{
+    float:left;
+    font-size: 20px;
+    font-family:"Arial";
+    list-style: none;
+    
+}
+a{
+    text-decoration: none;
+}
+.links .ed li{
+    padding-left:70px;
+    padding-right:100px;
+    
+}
+.links .jonas li {
+    padding-left:120px;
+    padding-right:100px;
+}
+.links .shakira li {
+    padding-left:120px;
+    padding-right:100px;
+}
+.links .ok li {
+    padding-left:120px;
+    padding-right:100px;
+}
+
+.register h2{
+    color:#01ffff;
+    font-family:"Verdana";
+    font-size: 20px;
+    text-align:left;
+    padding-top:100px;
+    
+}
+.register p{
+    font-family:"Arial";
+    font-size:10px;
+    color:#016064;
+    text-align:left;
+    
+}
+.register input{
+    font-family: "times new roman";
+    
+    
+
+}
